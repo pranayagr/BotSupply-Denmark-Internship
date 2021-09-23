@@ -1,4 +1,4 @@
-# BotSupply-Internship
+# BotSupply, Denmark - Internship
 
 My task was to develop a solution for classifying the daily business conversations of the client.
 
